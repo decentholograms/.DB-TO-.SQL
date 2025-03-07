@@ -11,5 +11,6 @@ A simple .database to .sql converter written in Python.
 - Python (PIP)
   - 1- Open cmd and go to the project folder using CD on windows or linux and run the following command.
   - 2- Run `python DB-SQL.py`
-  - 3- Enjoy your parser DB to SQL.
+  - 3- Fill the data as in the example photo.
+  - 4- Enjoy your parser DB to SQL.
 
